@@ -5,6 +5,9 @@ ReactコンポーネントのUIカタログを管理している。
 # Storybookの起動
 
 ```
+$ cd react
+ or
+$ cd vue
 npm run storybook
 ```
 
